@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<!-- Comment Header for my website -->
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <title>Jake's Shark Shoppe</title> 
+        <meta name="description" content="A large aquarium that doubles as a pet store!"> <meta name="keywords" content="Jake, Jake's, Shark, Shoppe, Shopping, Aquarium, Pet, Fish">
+    </head>
+
+    <body>
+        <header>
+            <img src="images/IMG_0705.png" alt="MPC Logo" width="500"> 
+        </header> 
+            <h1>Jake's Shark Shoppe</h1> 
+            <h2>The One Stop Shoppe For All Things Fish.</h2>
+            <p>Stop on by and check out our fish! we've got red fish and blue fish, one fish and two fish!</p>
+         
+    
+            <p>We've got all the best fish, any kind you like (from our list)</p>
+            <!-- block quote -->
+            <blockquote>Specializing in: Great White, Hammerhead 
+            </blockquote>
+            <!--list of bikes -->
+            <ol>
+                <li>GT</li> <li>TREK</li> <li>Gary Fisher</li><li>HUFFY</li><li>Schwinn</li>
+            </ol> 
+              <!--inline element -->
+            <p>If you don't see the model you want <em>we can order something you like.</em></p> 
+            <p>Save a bundle at our <strong>big yearend sale</strong>.</p> 
+             <!--not sure what "school" you were referring to, but here is a link :) -->
+            <a href="https://www.siu.edu">WWW.SIU.EDU</a> 
+            
+            <p>How to contact Jeff Miller &amp; Staff:</p> <address>1-800-aaa-xxxx<br>
+            <a href="emailto:owner@mpc.com">owner@millersbicycles.com</a> </address> 
+           
+            <pre>
+<!-- my address -->
+Store Address:
+
+Miller's Bicycles
+189 BMX Drive
+Makanda
+IL, 62958
+            </pre> 
+    
+           
+
+    </body>
+
+</html>
