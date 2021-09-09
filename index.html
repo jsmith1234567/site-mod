@@ -6,11 +6,15 @@
         <meta charset="utf-8">
         <title>Jake's Shark Shoppe</title> 
         <meta name="description" content="A large aquarium that doubles as a pet store!"> <meta name="keywords" content="Jake, Jake's, Shark, Shoppe, Shopping, Aquarium, Pet, Fish">
+		<!--this gives the shark picture a blue border-->
 		<style>
 			img {
 				border: 10px solid blue;
+				border-radius: 10px;
 			}
 		</style>
+		<!--this changes the background color to gray-->
+		<body style="background-color:LightGray;">
     </head>
 
     <body>
@@ -35,11 +39,19 @@
                 <li>Great White</li> <li>Hammerhead</li> <li>Bull</li> <li>Tiger</li> <li>Reef</li>
             </ol> 
               <!--inline element -->
-            <p>If you don't see the shark you want <em>we can catch one you do.</em></p> 
+            <p> If you don't see the shark you want <em>we can catch one you do.</em></p> 
             <p>Savings so huge <strong>you'll need a bigger boat</strong>.</p> 
             
-            <p>How to contact Jake Smith &amp; Shark Owner:</p> <address>1-800-aaa-xxxx<br>
-            <a href="emailto:owner@shark.com">owner@sharkshoppe.com</a> </address> 
+			<!--this adds a border to the contact info-->
+            <p style="border:3px;			
+					  border-style:outset; 
+					  border-color:LightBlue; 
+					  border-radius:10px;  
+					  width:200px;
+					  background-color:LightBlue;
+					  padding: 1em;"> 
+					  How to contact Jake Smith &amp; Shark Owner: <br> 1-800-aaa-xxxx<br>
+            <a href="emailto:owner@shark.com">owner@sharkshoppe.com</a> 
            
             <pre>
 <!-- my address -->
