@@ -1,7 +1,35 @@
- #border {
+/*#border {
 	border:3px;			
 	border-style:inset; 	
 	border-color:Blue; 
 	border-radius:10px;  
 	width:150px;
 	padding: 5px;
+}
+
+header {
+	border-bottom: 2px solid black;
+}*/
+
+body {
+	background-color:LightBlue;
+	border:3px solid black;
+	margin: 15px auto;
+	width: 900px;
+}
+
+main {
+	float: left;
+	width: 50%;
+	height: 500px;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+aside {
+	float: right;
+	width: 50%;
+	height: 500px;
+	padding: 10px;
+	border: 1px solid black;
+}
