@@ -20,7 +20,7 @@ body {
 
 main {
 	float: left;
-	width: 49%;
+	width: 40%;
 	height: 500px;
 	padding: 10px;
 	border: 1px solid black;
@@ -28,7 +28,7 @@ main {
 
 aside {
 	float: right;
-	width: 49%;
+	width: 40%;
 	height: 500px;
 	padding: 10px;
 	border: 1px solid black;
